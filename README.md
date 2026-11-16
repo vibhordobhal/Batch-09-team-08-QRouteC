@@ -5,7 +5,7 @@ Teaching a robot to find its way, using only 288 bytes of learned memory.
 
 <br>
 
-Show Image Show Image Show Image Show Image Show Image
+
 
 B.Tech CSE · UPES · Batch 09 / Team 08 · Faculty: Subhranil Das
 
